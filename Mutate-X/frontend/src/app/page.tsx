@@ -16,6 +16,7 @@ import {
 } from "lucide-react";
 import dynamic from "next/dynamic";
 import TorusKnot3D from "../components/TorusKnot3D";
+import Loader from "@/components/Loader";
 
 // ------------------ 3D DNA HELIX ANIMATION ------------------
 const DNAHelix = () => {
