@@ -34,7 +34,7 @@ def test_forward_pass(*, model, sequences):
             logits, _ = model.model.forward(input_ids.unsqueeze(0))
             
             # Calculate loss and accuracy
-            target_ids = input_ids[1:]  # Shift right for next token prediction
+            target_ids = input_ids[1:]  # Shift right for next token 
             pred_logits = logits[0, :-1, :]
             
             # Cross entropy loss
