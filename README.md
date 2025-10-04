@@ -1,4 +1,4 @@
-# 🧬 Mutate-X: Variant Effect Predictor with Evo2
+# 🧬 Mutate-X: Genomic Variant Impact Analyzer powered by Evo2
 
 <div align="center">
 
