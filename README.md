@@ -18,7 +18,7 @@ _An AI-powered platform revolutionizing genetic analysis by predicting the patho
 
 ##  "Built for HackAura - Pioneering Healthcare Innovation Through AI"
 
-[📊 Live Demo](https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1) | [📊 Research Paper Used](https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1)
+[📊 Live Demo](https://mutate-x-frontend-c6gz.vercel.app/) | [📊 Research Paper Used](https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1)
 
 </div>
 
