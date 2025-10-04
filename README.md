@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushkumar1991/Mutate-X_Frontend/main/assets/mutatex-banner.gif" alt="Mutate-X Animated Banner" width="100%">
+</p>
+
 # 🧬 Mutate-X: Genomic Variant Impact Analyzer powered by Evo2
 
 <div align="center">
