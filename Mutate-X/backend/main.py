@@ -198,9 +198,6 @@ def main():
         print("❌ Error calling the deployed API:", e)
         print("Make sure the app is deployed before testing.")
 
-# ------------------------------
-# Function to print endpoint URL in deployed env
-# ------------------------------
 @app.function()
 def print_endpoint_url():
     model = Evo2Model()
